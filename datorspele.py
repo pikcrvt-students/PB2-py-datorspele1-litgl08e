@@ -16,7 +16,7 @@ while neuzmineja:
         time.sleep(1)
         print(" \      \   ____  __ __________ _____ |__| ____   ____     |__|____ _/  |_   /\    /  /", end='\n', flush=True)
         time.sleep(1)
-        print(" /   |   \_/ __ \|  |  \___   //     \|  |/    \_/ __ \    |  \__  \\   __\  \/   /  / ", end='\n', flush=True)
+        print(" /   |   \_/ __ \|  |  \___   //     \|  |/    \_/ __ \    |  \__  \\   __\   \/   /  / ", end='\n', flush=True)
         time.sleep(1)
         print("/    |    \  ___/|  |  //    /|  Y Y  \  |   |  \  ___/    |  |/ __ \|  |    /\  (  (  ", end='\n', flush=True)
         time.sleep(1)
