@@ -1,5 +1,6 @@
 from random import randint
 import time
+import os
 print('Datorspēle \'Uzmini skaitli\'.')
 print('Dators "iedomājas" veselo skaitli no 1 līdz 10. ', end='\n\n')
 print('Uzminiet skaitli. ')
@@ -43,7 +44,4 @@ while neuzmineja:
             print("|______/  /_____ \__|_|  /__|___|  /\___  >\__|  (____  /__|  ______", end='\n', flush=True)
             time.sleep(1)
             print("                \/     \/        \/     \/\______|    \/      \/\/\/", end='\n', flush=True)
-        
-        
-
-
+os.system("PAUSE")
